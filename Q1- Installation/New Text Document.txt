@@ -1,0 +1,20 @@
+1. Node JS installation
+
+-https://nodejs.org/en
+
+2. Typescript Installation
+
+- Opne you Cmd Prompt
+- run below command
+	-Npm Install --global typescript@5.0.2 tsc --version 
+
+       (Version can be changed)
+
+3. VS code installation
+
+- https://code.visualstudio.com/download
+
+
+4. Git Installation
+
+-https://git-scm.com/download/win

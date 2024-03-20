@@ -1,0 +1,11 @@
+console.log("Q18 - Seeing th world\n\nAnswer")
+let place = ["KSA", "UAE", "Canada", "USA", "Germany"]
+console.log(place)
+console.log("Alphabetical order:", [...place].sort())
+console.log("Original Order:", place)
+console.log("Reversal Order:", [...place].sort().reverse())
+console.log("Original Order:", place)
+console.log("Reversed order:", (place).reverse())
+console.log("Original order:", (place).reverse())
+console.log("Sorted order:", (place).sort())
+console.log("Reversal sorted order:", (place).sort().reverse())
