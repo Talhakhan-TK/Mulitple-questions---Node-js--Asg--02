@@ -1,4 +1,4 @@
-Multiple questions solution related to Node JS
+Multiple questions solution related to Typescript and node js.
 
 
 **By: Talha Khan - TK**
